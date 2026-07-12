@@ -90,6 +90,48 @@
       "filename": "app/actions/auth.ts",
       "exportedName": "logoutAction"
     },
+    "40364bac7c08d6746460e1de008f748aeddf3d33e2": {
+      "workers": {
+        "app/admin/[section]/page": {
+          "moduleId": 71366,
+          "async": false,
+          "exportedName": "requestRegistrationCodeAction",
+          "filename": "app/actions/auth.ts"
+        },
+        "app/admin/page": {
+          "moduleId": 70415,
+          "async": false,
+          "exportedName": "requestRegistrationCodeAction",
+          "filename": "app/actions/auth.ts"
+        },
+        "app/dashboard/page": {
+          "moduleId": 44151,
+          "async": false,
+          "exportedName": "requestRegistrationCodeAction",
+          "filename": "app/actions/auth.ts"
+        },
+        "app/login/page": {
+          "moduleId": 51661,
+          "async": false,
+          "exportedName": "requestRegistrationCodeAction",
+          "filename": "app/actions/auth.ts"
+        },
+        "app/recharge/page": {
+          "moduleId": 62732,
+          "async": false,
+          "exportedName": "requestRegistrationCodeAction",
+          "filename": "app/actions/auth.ts"
+        },
+        "app/register/page": {
+          "moduleId": 15719,
+          "async": false,
+          "exportedName": "requestRegistrationCodeAction",
+          "filename": "app/actions/auth.ts"
+        }
+      },
+      "filename": "app/actions/auth.ts",
+      "exportedName": "requestRegistrationCodeAction"
+    },
     "601b3a36fef0575d12e9779b8d06aa4147293f5323": {
       "workers": {
         "app/admin/[section]/page": {

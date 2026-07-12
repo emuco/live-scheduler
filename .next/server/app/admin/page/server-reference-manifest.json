@@ -36,6 +36,18 @@
       "exportedName": "logoutAction",
       "filename": "app/actions/auth.ts"
     },
+    "40364bac7c08d6746460e1de008f748aeddf3d33e2": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": 70415,
+          "async": false,
+          "exportedName": "requestRegistrationCodeAction",
+          "filename": "app/actions/auth.ts"
+        }
+      },
+      "exportedName": "requestRegistrationCodeAction",
+      "filename": "app/actions/auth.ts"
+    },
     "601b3a36fef0575d12e9779b8d06aa4147293f5323": {
       "workers": {
         "app/admin/page": {

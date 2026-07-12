@@ -19,7 +19,19 @@ module.exports=[92509,(a,b,c)=>{b.exports=a.x("url",()=>require("url"))},43211,(
       <p style="margin:0 0 6px;"><strong>日期：</strong>${c}</p>
       <p style="margin:0;"><strong>时间：</strong>${d}</p>
     </div>
-    <p>请准时收看，感谢你的支持～</p>`)},"emailLayout",0,f,"isSmtpReady",0,d,"resetCodeEmail",0,function(a,b,c){return f(a,"重置密码验证码",`
+    <p>请准时收看，感谢你的支持～</p>`)},"emailLayout",0,f,"isSmtpReady",0,d,"orderConfirmationEmail",0,function(a,b,c,d,e){return f(a,"下单成功",`
+    <p>你的节目预约订单已支付成功，主播确认后会发送最终排期通知。</p>
+    <div style="margin:16px 0;padding:16px;background:#f5f3ef;border-radius:12px;">
+      <p style="margin:0 0 6px;"><strong>产品：</strong>${b}</p>
+      <p style="margin:0 0 6px;"><strong>节目：</strong>${c}</p>
+      <p style="margin:0 0 6px;"><strong>预约日期：</strong>${e}</p>
+      <p style="margin:0;"><strong>支付金额：</strong>￥${d.toFixed(2)}</p>
+    </div>`)},"registrationCodeEmail",0,function(a,b,c){let d=`
+    <p>你正在注册 ${a} 账号，请输入以下验证码完成邮箱验证：</p>
+    <div style="margin:20px 0;padding:16px;background:#f5f3ef;border-radius:12px;text-align:center;">
+      <span style="font-size:30px;font-weight:700;letter-spacing:8px;color:#b45f4d;">${b}</span>
+    </div>
+    <p>验证码 <strong>${c} 分钟</strong> 内有效。如果这不是你的操作，请忽略此邮件。</p>`;return f(a,"注册邮箱验证",d)},"resetCodeEmail",0,function(a,b,c){return f(a,"重置密码验证码",`
     <p>你正在申请重置登录密码。请在验证页面输入以下验证码完成重置：</p>
     <div style="margin:20px 0;padding:16px;background:#f5f3ef;border-radius:12px;text-align:center;">
       <span style="font-size:30px;font-weight:700;letter-spacing:8px;color:#b45f4d;">${b}</span>
