@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/[section]/page": "app/admin/[section]/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/api/epay/notify/route": "app/api/epay/notify/route.js",
+  "/api/epay/return/route": "app/api/epay/return/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/forgot-password/page": "app/forgot-password/page.js",
+  "/install/page": "app/install/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/recharge/page": "app/recharge/page.js",
+  "/register/page": "app/register/page.js"
+}

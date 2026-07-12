@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="直播排期">
+  <rect width="180" height="180" rx="36" fill="#e9779b"/>
+  <rect x="38" y="43" width="104" height="96" rx="15" fill="none" stroke="#fff" stroke-width="10"/>
+  <path d="M39 70h102M65 34v24M115 34v24" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="124" cy="123" r="31" fill="#fff"/>
+  <path d="m116 107 24 16-24 16z" fill="#e9779b"/>
+</svg>

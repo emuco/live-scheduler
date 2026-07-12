@@ -1,0 +1,3 @@
+{
+  "/api/epay/notify/route": "app/api/epay/notify/route.js"
+}

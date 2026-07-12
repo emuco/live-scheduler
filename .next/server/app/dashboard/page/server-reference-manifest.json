@@ -1,0 +1,89 @@
+{
+  "node": {
+    "003dda64e0f7b81be40a48311daef6ac6ee7c85380": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 44151,
+          "async": false,
+          "exportedName": "requireUser",
+          "filename": "app/actions/auth.ts"
+        }
+      },
+      "exportedName": "requireUser",
+      "filename": "app/actions/auth.ts"
+    },
+    "008931122ac13380779c1ee1aaf5c54ba7a8525cb4": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 44151,
+          "async": false,
+          "exportedName": "requireAdmin",
+          "filename": "app/actions/auth.ts"
+        }
+      },
+      "exportedName": "requireAdmin",
+      "filename": "app/actions/auth.ts"
+    },
+    "00f4ef0b6671bb064ded60b7af4fec3c9480b4af14": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 44151,
+          "async": false,
+          "exportedName": "logoutAction",
+          "filename": "app/actions/auth.ts"
+        }
+      },
+      "exportedName": "logoutAction",
+      "filename": "app/actions/auth.ts"
+    },
+    "601b3a36fef0575d12e9779b8d06aa4147293f5323": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 44151,
+          "async": false,
+          "exportedName": "loginAction",
+          "filename": "app/actions/auth.ts"
+        }
+      },
+      "exportedName": "loginAction",
+      "filename": "app/actions/auth.ts"
+    },
+    "605a66eb3effc0557e79cabe616ac4776923d92f25": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 44151,
+          "async": false,
+          "exportedName": "registerAction",
+          "filename": "app/actions/auth.ts"
+        }
+      },
+      "exportedName": "registerAction",
+      "filename": "app/actions/auth.ts"
+    },
+    "409386c32c7ac6f5ab6c772a6bbc45872844eaa49e": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 44151,
+          "async": false,
+          "exportedName": "cancelRequest",
+          "filename": "app/actions/programs.ts"
+        }
+      },
+      "exportedName": "cancelRequest",
+      "filename": "app/actions/programs.ts"
+    },
+    "409931a0e89e992198a60ab78647e8ffcabc4c0600": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 44151,
+          "async": false,
+          "exportedName": "submitRequest",
+          "filename": "app/actions/programs.ts"
+        }
+      },
+      "exportedName": "submitRequest",
+      "filename": "app/actions/programs.ts"
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" role="img" aria-label="直播排期">
+  <rect x="4" y="4" width="132" height="132" rx="28" fill="#e9779b"/>
+  <rect x="31" y="36" width="78" height="72" rx="11" fill="none" stroke="#fff" stroke-width="8"/>
+  <path d="M32 56h76M51 29v18M89 29v18" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="98" cy="100" r="25" fill="#fff"/>
+  <path d="m92 88 18 12-18 12z" fill="#e9779b"/>
+  <text x="162" y="75" fill="#49353d" font-family="Arial, 'Noto Sans SC', sans-serif" font-size="44" font-weight="600">直播排期</text>
+  <text x="164" y="108" fill="#8b737c" font-family="Arial, sans-serif" font-size="19">LIVE SCHEDULER</text>
+</svg>

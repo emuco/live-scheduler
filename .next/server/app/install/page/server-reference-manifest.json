@@ -1,0 +1,17 @@
+{
+  "node": {
+    "60bb0bdc006ff57e3e4007846ec5f7a43e76075406": {
+      "workers": {
+        "app/install/page": {
+          "moduleId": 41409,
+          "async": false,
+          "exportedName": "installAction",
+          "filename": "app/actions/install.ts"
+        }
+      },
+      "exportedName": "installAction",
+      "filename": "app/actions/install.ts"
+    }
+  },
+  "edge": {}
+}

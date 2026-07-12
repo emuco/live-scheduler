@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/[section]/page": "/admin/[section]",
+  "/admin/page": "/admin",
+  "/api/epay/notify/route": "/api/epay/notify",
+  "/api/epay/return/route": "/api/epay/return",
+  "/dashboard/page": "/dashboard",
+  "/forgot-password/page": "/forgot-password",
+  "/install/page": "/install",
+  "/login/page": "/login",
+  "/page": "/",
+  "/recharge/page": "/recharge",
+  "/register/page": "/register"
+}

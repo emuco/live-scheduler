@@ -1,0 +1,5 @@
+Live Scheduler binary distribution
+Copyright (c) 2026 emuco. All rights reserved.
+
+This package is provided for deployment and use. Source code is not included.
+Third-party components remain subject to their respective licenses.

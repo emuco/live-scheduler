@@ -1,0 +1,29 @@
+{
+  "node": {
+    "60ab25e3748bed69a3a82f531e97a76c7afb826a81": {
+      "workers": {
+        "app/forgot-password/page": {
+          "moduleId": 44368,
+          "async": false,
+          "exportedName": "requestResetAction",
+          "filename": "app/actions/password.ts"
+        }
+      },
+      "exportedName": "requestResetAction",
+      "filename": "app/actions/password.ts"
+    },
+    "60483c6fb4c7e0a73a06c7296833c94cac67217cd6": {
+      "workers": {
+        "app/forgot-password/page": {
+          "moduleId": 44368,
+          "async": false,
+          "exportedName": "resetPasswordAction",
+          "filename": "app/actions/password.ts"
+        }
+      },
+      "exportedName": "resetPasswordAction",
+      "filename": "app/actions/password.ts"
+    }
+  },
+  "edge": {}
+}
